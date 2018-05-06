@@ -93,5 +93,6 @@ Credits :<br/>
 My friends Soham and Anisha for their poetry.<br/>
 David Shield for his collection recipes - http://www.shieldsgenealogy.com/recipe-nyc-dl.html<br/>
 Andrej Kapathy <br/>
+Poetry Dataset https://www.kaggle.com/jatindersehdev/poetry-analysis-data<br/>
 Siraj Raval for his tutorials<br/>
 https://github.com/martin-gorner/tensorflow-rnn-shakespeare for the wonderful mytxtutils.py and tutorial which inspired me<br/>
